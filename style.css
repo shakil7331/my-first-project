@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.header-area {
+	background-image: url('assets/images/donation13.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	color: #fff;
+	padding: 200px 0px;
+	margin: 0px;
+
+
+}
+
+.title {
+	font-size: 80px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+
+}
+
+.sub-title {
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.btn {
+	background-color: #FF5959;
+	padding: 20px 20px;
+	font-weight: bold;
+	color: #fff;
+	font-size: 25px;
+	border-style: none;
+	border-radius: 5px;
+}
+
+/* donate-today start */
+
+.donate-today {
+	margin-bottom: 200px;
+}
+
+.donate-today .title {
+	color: #000;
+	font-size: 65px;
+	font-weight: bold;
+
+
+}
+
+.div-center {
+	display: flex;
+	justify-content: center;
+	margin: 50px 0px;
+}
+
+.token {
+
+	background-color: #FAFAFA;
+	border-radius: 5px;
+	padding: 60px;
+	margin: 10px;
+	font-size: 40px;
+	font-weight: bold;
+	color: #707070;
+
+}
+
+.tk-border {
+	background-color: #FFEEEE;
+	border: 2px solid #FF5959;
+	color: #FF5959;
+}
+
+.amount {
+
+	color: #B8B8B8;
+	text-align: center;
+
+}
+
+hr {
+	margin: 10px 335px 40px 335px;
+	color: #E3E3E3;
+}
+
+/* Donate plan start */
+
+.mt {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.tk-plan-1 {
+	background-color: #EDF5F6;
+
+}
+
+.tk-plan-1 h4 {
+	color: #121212;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.tk-plan-1 p {
+	font-size: 20px;
+}
+
+.tk-plan-2 {
+	background-color: #FFEEEE;
+}
+
+.tk-plan-2 h4 {
+	color: #121212;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.tk-plan-2 p {
+	font-size: 20px;
+}
+
+
+.tk-plan-3 {
+	background-color: #FFF4D6;
+}
+
+.tk-plan-3 h4 {
+	color: #121212;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.tk-plan-3 p {
+	font-size: 20px;
+}
+
+
+/* Contribute section start */
+
+.contribute-area {
+	margin-left: 200px;
+
+}
+
+.contribute-area h1 {
+	font-size: 60px;
+	font-weight: 1900;
+}
+
+.contribute-area P {
+
+	color: #828282;
+	font-size: 25px;
+
+}
+
+/* suvive section start */
+
+.contribute-suvive {
+	margin: 200px 0px;
+	display: inline-block;
+}
+
+.suvive-image {
+	float: left;
+	margin-left: 200px;
+	margin-right: 70px;
+	height: 700px;
+	width: 600px;
+	overflow: hidden;
+	border-radius: 10px;
+
+}
+
+.suvive-content {
+	float: left;
+}
+
+.suvive-content h1 {
+	font-size: 60px;
+	font-weight: 1900;
+}
+
+.suvive-content P {
+	color: #828282;
+	font-size: 25px;
+}
+
+/* suvive two section start */
+
+
+.contribute-suvive-2 {
+
+	display: inline-block;
+}
+
+.suvive-image-2 {
+	float: left;
+	margin-left: 200px;
+	margin-right: 70px;
+	height: 700px;
+	width: 600px;
+	overflow: hidden;
+	border-radius: 10px;
+
+}
+
+.suvive-content-2 {
+	float: left;
+	margin-left: 200px;
+}
+
+.suvive-content-2 h1 {
+	font-size: 60px;
+	font-weight: 1900;
+}
+
+.suvive-content-2 P {
+	color: #828282;
+	font-size: 25px;
+}
+
+/* Subscribe section start */
+
+.subscribe-area h1 {
+	font-size: 60px;
+	color: #000;
+}
+
+.subscribe-area p {
+	color: #707070;
+}
+
+.subscribe-btn {
+	padding: 100px;
+	background-color: #FFF4D6;
+	margin: 0px 300px;
+	margin-bottom: 100px;
+}
+
+
+.subscribe-btn input {
+	padding: 22px 52px;
+	border-style: none;
+	border-radius: 10px 0px 0px 10px;
+	background-color: #D9D9D9;
+}
+
+input::placeholder {
+	font-size: 20px;
+}
+
+.subscribe-btn button {
+	background-color: #FF5959;
+	padding: 20px 50px;
+	border-radius: 0px 10px 10px 0px;
+	border-style: none;
+	color: #fff;
+	font-size: 20px;
+
+}
+
+.footer {
+
+	background-color: #000;
+	height: 200px;
+}
